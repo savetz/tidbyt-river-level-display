@@ -1,4 +1,4 @@
-# tidbyt-river-level-display
+# Tidbyt River Level Display
 Show the observed water level at your chosen U.S. river gauge and the forecast high water level on a [Tidbyt](https://tidbyt.com/) display, using data from the National Weather Service.
  
 If the observed level or forecast high level is above normal (e.g. near flood stage or flooding) the information is shown in red.
