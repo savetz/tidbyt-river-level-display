@@ -12,6 +12,6 @@ If the observed level or forecast high level is above normal (e.g. near flood st
 5. You may want to change your default gauge on line 13
 
 ![Preview](screenshot1.png)
-![Preview](screenshot1.png)
-![Preview](screenshot1.png)
+![Preview](screenshot2.png)
+![Preview](screenshot3.png)
 __
