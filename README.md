@@ -11,5 +11,7 @@ If the observed level or forecast high level is above normal (e.g. near flood st
 4. Find your local gauge at https://water.weather.gov/ahps/
 5. You may want to change your default gauge on line 13
 
-![Preview](spritedemo.gif)
+![Preview](screenshot1.png)
+![Preview](screenshot1.png)
+![Preview](screenshot1.png)
 __
